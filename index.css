@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #F59E0B
+}
+
+.score {
+    background: #10B981;
+    font-size: 90px;
+    color: white;
+    width: 120px;
+    margin: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+button {
+    background: none;
+}
+
+.main-home{
+    color: white;
+}
+
